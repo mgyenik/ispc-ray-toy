@@ -1,0 +1,8 @@
+dragon_recon/
+*.o
+mandelbrot*
+*.png
+*.ppm
+perf.data
+render
+*_ispc.h
